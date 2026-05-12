@@ -25,7 +25,7 @@ class AdamMohamed:
         self.role        = ["AI Engineer", "Data Scientist", "MLOps Engineer"]
         self.education   = "Faculty of Computers & Artificial Intelligence"
         self.grade       = "B+  |  Ranked 4th in Department 🏆"
-        self.training    = "ITI — 9-Month Professional Program (Data Science & AI Track)"
+        self.training    = "ITI Smart Village — 9-Month Professional Program  (Data Science Track)"
         self.interests   = ["Machine Learning", "Deep Learning", "NLP",
                             "Computer Vision", "MLOps", "AI Deployment"]
         self.motto       = "Always building, always learning. 🚀"
@@ -79,8 +79,8 @@ class AdamMohamed:
 | Machine Learning | Docker | FastAPI | Pandas |
 | Deep Learning | GitLab CI/CD | Django | NumPy |
 | NLP | MLflow | REST APIs | SQL |
-| Computer Vision | DVC | Flutter | Data Wrangling |
-| Model Deployment | Linux | Git | EDA |
+| Computer Vision | DVC |
+| Model Deployment| Git | EDA |
 
 </div>
 
@@ -114,9 +114,9 @@ class AdamMohamed:
 <td width="60px" align="center">🎓</td>
 <td>
 
-### Faculty of Computers and Artificial Intelligence
+### Faculty of Computers and Artificial Intelligence (Fayoum University)
 **Major:** Artificial Intelligence  
-**Grade:** B+ &nbsp;|&nbsp; 🏆 Ranked **4th** in the department
+**Grade:** B+ &nbsp;|&nbsp;  Ranked **4th** in the department
 
 </td>
 </tr>
@@ -162,21 +162,6 @@ class AdamMohamed:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adam1102003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=ffffff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam1102003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam1102003&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" height="165"/>
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
