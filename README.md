@@ -18,12 +18,12 @@
 
 ## 🧠 About Me
 
-Hello! I'm **Adam Mohamed Sayed**, a Junior Machine Learning and AI Engineer with a strong passion for designing scalable AI solutions and end-to-end MLOps pipelines. I am currently honing my skills in an intensive 9-month professional training program in Data Science and AI at the Information Technology Institute (ITI). 
+Hello! I'm **Adam Mohamed Sayed**, a Junior Machine Learning and AI Engineer with a strong passion for designing scalable AI solutions and end-to-end MLOps pipelines. I am currently honing my skills in an intensive 9-month professional training program in Data Science at the Information Technology Institute Smart Village Branch (ITI). 
 
 My technical journey is driven by a deep interest in Deep Learning architectures, model interpretability, and robust deployment strategies. I enjoy bridging the gap between raw data and production-ready applications, taking models from local environments to fully containerized, CI/CD-integrated endpoints.
 
 > 🔥 Passionate about solving real-world problems using AI and analytical data engineering.  
-> ⚙️ Love building reproducible ML pipelines using tools like uv, DVC, and MLflow.  
+> ⚙️ Love building reproducible ML pipelines using tools like DVC, and MLflow.  
 > 📚 Continuously improving through hands-on projects and professional training.
 
 ---
@@ -66,8 +66,8 @@ My technical journey is driven by a deep interest in Deep Learning architectures
 | Machine Learning | Docker | FastAPI | Pandas |
 | Deep Learning | GitLab CI/CD | Django | NumPy |
 | NLP | MLflow & DVC | REST APIs | sql |
-| Computer Vision | AWS Infrastructure | Environment (uv) | Data Wrangling |
-| Model Deployment | Linux & Git | System Integration | EDA |
+| Computer Vision | AWS Infrastructure |  | EDA |
+| Model Deployment | Linux & Git |  |  |
 
 </div>
 
