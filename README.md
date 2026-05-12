@@ -78,9 +78,9 @@ class AdamMohamed:
 |:---:|:---:|:---:|:---:|
 | Machine Learning | Docker | FastAPI | Pandas |
 | Deep Learning | GitLab CI/CD | Django | NumPy |
-| NLP | MLflow | REST APIs | SQL |
-| Computer Vision | DVC |
-| Model Deployment| Git | EDA |
+| NLP | MLflow | REST APIs | SQL |             
+| Computer Vision | DVC |   | EDA | 
+| Model Deployment| Git |
 
 </div>
 
